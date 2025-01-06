@@ -1,0 +1,37 @@
+body {
+    background-image: url("../img/wood13.png");
+}
+
+.card.holder, .modal-content {
+    background-image: url("../img/wood12.png");
+}
+
+.form-control, .form-control:focus {
+    background-color: #787366;
+    color: whitesmoke;
+    border: 0px;
+}
+
+label {
+    color: whitesmoke;
+}
+
+.card.pit {
+    background-color: #787366;
+    color: wheat;
+    border-radius: 30%;
+    vertical-align: middle;
+}
+
+.card.pit .clickable {
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+.modal-header {
+    border-bottom: 0px;
+}
+
+.modal-footer {
+    border-top: 0px;
+}
